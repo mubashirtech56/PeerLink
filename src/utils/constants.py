@@ -1,0 +1,6 @@
+"""Shared constants."""
+
+TCP_PORT = 5000
+UDP_PORT = 5001
+BUFFER_SIZE = 4096
+CHUNK_SIZE = 1024
