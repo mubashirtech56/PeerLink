@@ -27,5 +27,8 @@ It also focuses on network performance analysis by measuring RTT, jitter, throug
 - Hamid Khan (23P-0044)
 - Muhammad Ibrahim Khalil (23P-0504)
 
+**[Architecture](docs/architecture.md)** 
+
+
 **Mubashir's Contributions**
 [Click Here](mubashirwork.md)
